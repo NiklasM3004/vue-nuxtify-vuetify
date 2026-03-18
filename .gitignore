@@ -1,0 +1,12 @@
+# Abhängigkeiten
+node_modules/
+
+# Nuxt Arbeitsverzeichnis
+.nuxt/
+.output/
+
+# Logs
+npm-debug.log*
+
+# OS spezifische Dateien
+.DS_Store
