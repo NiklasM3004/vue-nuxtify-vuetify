@@ -10,3 +10,5 @@ npm-debug.log*
 
 # OS spezifische Dateien
 .DS_Store
+
+package-lock.json
