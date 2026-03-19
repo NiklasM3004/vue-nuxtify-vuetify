@@ -19,3 +19,8 @@ many different pre-designed components can be used via vuetify, like buttons, sc
 DOCs for component library: https://vuetifyjs.com/en/components/all/#containment
 
 
+vue.js:
+
+all elements together create a flexbox. the md="4" parameter is representing a relation to the fixed number 12. Thereby the width of the row is defined (for example md="4" => one third of the page)
+
+The Flexbox is created by combination of row (rows) and col (columns)

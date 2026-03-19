@@ -8,15 +8,15 @@
 
       <v-col cols="12" md="4">
         <v-card border color="primary" variant="tonal" class="pa-4">
-          <v-card-title title="Aktive Aufgaben">
+          <v-card-item title="Aktive Aufgaben">
             <template v-slot:subtitle> Letzte 7 Tage </template>
-          </v-card-title>
+          </v-card-item>
           <v-card-text class="text-h2">12</v-card-text>
         </v-card>
       </v-col>
 
       <v-col cols="12" md="8">
-        <v-card title="Projektfortschritt" subtitle="Meilensteine 2024">
+        <v-card item="Projektfortschritt" subtitle="Meilensteine 2024">
           <v-card-text>
             <v-progress-linear color="success" model-value="75" height="20" striped></v-progress-linear>
             <div class="mt-4 d-flex justify-space-between">
