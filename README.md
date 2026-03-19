@@ -2,5 +2,6 @@ This is a portfolio project for recruiting purposes only. I have installed the b
 
 to install dependencies and afterwards run the apllication do the following:
 
-1. nmp install
-2. npm run dev
+1. npm install
+2. npx nuxi prepare
+3. npm run dev
