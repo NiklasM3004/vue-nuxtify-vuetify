@@ -8,9 +8,9 @@
 
       <v-col cols="12" md="4">
         <v-card border color="primary" variant="tonal" class="pa-4">
-          <v-card-item title="Aktive Aufgaben">
+          <v-card-title title="Aktive Aufgaben">
             <template v-slot:subtitle> Letzte 7 Tage </template>
-          </v-card-item>
+          </v-card-title>
           <v-card-text class="text-h2">12</v-card-text>
         </v-card>
       </v-col>
